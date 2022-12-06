@@ -1,2 +1,6 @@
 # Python-for-data-analysis-Project
-Data analysis and machine learning model about biodegradation data set
+
+This project is about understanding and analysing the QSAR biodegradation data set.
+Choosing and optimizing a classifier machine learning model.
+
+by Paul RUNAVOT, Adele MONTOYA, Eléonor KIOULOU
